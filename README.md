@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Little Lemon Booking Website
 
 ## Project Description
@@ -13,3 +14,6 @@ Here are some screeenshots of the application showcasing the Booking functionali
 ![little lemon website table booking](/src/images/github-cover.png)
 
 
+=======
+# meta-capstone
+>>>>>>> 1ff74b88cdd46f877c409bb98238d8eda335273f
